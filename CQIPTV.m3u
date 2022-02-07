@@ -50,14 +50,14 @@ rtp://235.254.199.198:7980
 rtp://235.254.199.251:7980
 #EXTINF:0 tvg-id="7244" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="B.高清",爱上4K
 rtp://235.254.198.102:7980
-#EXTINF:0 group-title="B.高清",精彩影视
-rtp://235.254.199.250:7980
 #EXTINF:0 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="B.高清",CHC高清电影
 rtp://235.254.199.247:7980
 #EXTINF:0 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="B.高清",CHC家庭影院
 rtp://235.254.199.246:7980
 #EXTINF:0 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="B.高清",CHC动作电影
 rtp://235.254.199.248:7980
+#EXTINF:0 group-title="B.高清",精彩影视
+rtp://235.254.199.250:7980
 #EXTINF:0 group-title="B.高清", CBN 幸福剧场
 rtp://235.254.198.193:7980
 #EXTINF:0 group-title="B.高清", CBN 风尚生活
