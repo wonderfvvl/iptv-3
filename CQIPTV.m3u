@@ -32,7 +32,7 @@ rtp://235.254.198.61:1520
 #EXTINF:0 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="A.央视",CCTV15HD
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:0 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="A.央视",CCTV16HD
-rtp://235.254.199.138:7980
+rtp://235.254.199.172:7980
 #EXTINF:0 tvg-id="17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="A.央视",CCTV17HD
 rtp://235.254.198.130:7980
 
