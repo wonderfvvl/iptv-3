@@ -197,23 +197,23 @@ rtp://235.254.198.116:1740
 
 #EXTINF:0 group-title="G.其他",金色频道
 rtp://235.254.197.40:7980
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongguoqixiangpingdao.png" group-title="G.其他",中国气象频道
+#EXTINF:0 group-title="G.其他",中国气象频道
 rtp://235.254.197.126:7980
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png" group-title="G.其他",劲爆体育
+#EXTINF:0 group-title="G.其他",劲爆体育
 rtp://235.254.197.35:7980
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jisuqiche.png" group-title="G.其他",极速汽车
+#EXTINF:0 group-title="G.其他",极速汽车
 rtp://235.254.197.38:7980
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png" group-title="G.其他",都市剧场
+#EXTINF:0 group-title="G.其他",都市剧场
 rtp://235.254.197.41:7980
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanxiaojuchang.png" group-title="G.其他",欢笑剧场
+#EXTINF:0 group-title="G.其他",欢笑剧场
 rtp://235.254.197.42:7980
 #EXTINF:0 group-title="G.其他",法治天地
 rtp://235.254.197.43:7980
 #EXTINF:0 group-title="G.其他",生活时尚
 rtp://235.254.197.44:7980
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/meiliyingyue.png" group-title="G.其他",魅力音乐
+#EXTINF:0 group-title="G.其他",魅力音乐
 rtp://235.254.197.45:7980
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/caifutianxia.png" group-title="G.其他",财富天下
+#EXTINF:0 group-title="G.其他",财富天下
 rtp://235.254.198.108:1708
 #EXTINF:0 group-title="G.其他",山东教育
 rtp://235.254.198.153:7980
@@ -221,6 +221,9 @@ rtp://235.254.198.153:7980
 rtp://235.254.198.196:7980
 #EXTINF:0 group-title="G.其他",CETV4
 rtp://235.254.198.197:7980
+#EXTINF:0 group-title="G.其他",精彩导视
+rtp://235.254.196.101:1162
+#EXTINF:0 group-title="G.其他",经典电影
 rtp://235.254.198.114:1732
 #EXTINF:0 group-title="G.其他",城市剧场（测试）
 rtp://235.254.198.74:1572
@@ -250,8 +253,6 @@ rtp://235.254.198.85:1616
 rtp://235.254.198.86:1620
 #EXTINF:0 group-title="G.其他",动画（测试）
 rtp://235.254.198.87:1624
-#EXTINF:0 group-title="G.其他",精彩导视
-rtp://235.254.196.101:1162
 #EXTINF:0 group-title="G.其他",好学生（测试）
 rtp://235.254.198.88:1628
 #EXTINF:0 group-title="G.其他",鉴赏（测试）
