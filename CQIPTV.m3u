@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://tv.sason.xyz/epg"
 #EXTINF:0 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="A.央视",CCTV1HD
-http://192.168.2.1:2019/udp/235.254.198.52:1484
+http://192.168.2.1:2019/udp/235.254.198.51:1484
 #EXTINF:0 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="A.央视",CCTV2HD
 rtp://235.254.198.52:1484
 #EXTINF:0 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="A.央视",CCTV3HD
