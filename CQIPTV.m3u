@@ -61,7 +61,7 @@ http://192.168.2.1:2019/udp/235.254.199.251:7980
 http://192.168.2.1:2019/udp/235.254.198.121:1760
 #EXTINF:0 tvg-id="6595" tvg-logo="https://i.imgur.com/o9fbNsR.png" group-title="B.高清",快乐垂钓
 http://192.168.2.1:2019/udp/235.254.198.191:7980
-#EXTINF:0 tvg-id="6585" tvg-logo="https://i.imgur.com/1ZGL7fI.png" group-title="B.高清",茶频道
+#EXTINF:0 tvg-logo="https://i.imgur.com/1ZGL7fI.png" group-title="B.高清",茶频道
 http://192.168.2.1:2019/udp/235.254.199.198:7980
 
 
