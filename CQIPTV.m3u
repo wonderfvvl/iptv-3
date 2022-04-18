@@ -59,11 +59,10 @@ http://192.168.2.1:2019/udp/235.254.198.192:7980
 http://192.168.2.1:2019/udp/235.254.199.251:7980
 #EXTINF:0 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="B.高清",纪实人文
 http://192.168.2.1:2019/udp/235.254.198.121:1760
-#EXTINF:0 tvg-id="1976" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="B.高清",全纪实
-http://192.168.2.1:2019/udp/235.254.197.39:7980
 #EXTINF:0 tvg-id="6595" tvg-logo="https://i.imgur.com/o9fbNsR.png" group-title="B.高清",快乐垂钓
 http://192.168.2.1:2019/udp/235.254.198.191:7980
-
+#EXTINF:0 tvg-id="6585" tvg-logo="https://i.imgur.com/1ZGL7fI.png" group-title="B.高清",茶频道
+http://192.168.2.1:2019/udp/235.254.199.198:7980
 
 
 
@@ -195,6 +194,8 @@ http://192.168.2.1:2019/udp/235.254.198.110:1716
 #EXTINF:0 group-title="F.动漫",IPTV少儿动画
 http://192.168.2.1:2019/udp/235.254.198.116:1740
 
+#EXTINF:0 tvg-id="1976" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="G.其他",全纪实
+http://192.168.2.1:2019/udp/235.254.197.39:7980
 #EXTINF:0 group-title="G.其他",金色频道
 http://192.168.2.1:2019/udp/235.254.197.40:7980
 #EXTINF:0 group-title="G.其他",中国气象频道
