@@ -45,8 +45,6 @@ http://192.168.2.1:2019/udp/235.254.199.248:7980
 http://192.168.2.1:2019/udp/235.254.199.246:7980
 #EXTINF:0 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="B.高清",CHC动作电影
 http://192.168.2.1:2019/udp/235.254.199.247:7980
-#EXTINF:0 tvg-logo="https://i.imgur.com/Q8dNnWn.png" group-title="B.高清", 精彩影视
-http://192.168.2.1:2019/udp/235.254.199.250:7980
 #EXTINF:0 tvg-logo="https://i.imgur.com/T3nEcvE.png" group-title="B.高清", CBN幸福剧场
 http://192.168.2.1:2019/udp/235.254.198.193:7980
 #EXTINF:0 tvg-logo="https://i.imgur.com/t9OlDhi.png" group-title="B.高清", CBN风尚生活
@@ -55,13 +53,15 @@ http://192.168.2.1:2019/udp/235.254.198.194:7980
 http://192.168.2.1:2019/udp/235.254.198.195:7980
 #EXTINF:0 tvg-logo="https://i.imgur.com/2pmPLJr.png" group-title="B.高清", CBN每日影院
 http://192.168.2.1:2019/udp/235.254.198.192:7980
+#EXTINF:0 tvg-logo="https://i.imgur.com/Q8dNnWn.png" group-title="B.高清", 精彩影视
+http://192.168.2.1:2019/udp/235.254.199.250:7980
 #EXTINF:0 tvg-id="6244" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="B.高清",求索纪录
 http://192.168.2.1:2019/udp/235.254.199.251:7980
 #EXTINF:0 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="B.高清",纪实人文
 http://192.168.2.1:2019/udp/235.254.198.121:1760
 #EXTINF:0 tvg-id="6595" tvg-logo="https://i.imgur.com/o9fbNsR.png" group-title="B.高清",快乐垂钓
 http://192.168.2.1:2019/udp/235.254.198.191:7980
-#EXTINF:0 tvg-logo="https://i.imgur.com/1ZGL7fI.png" group-title="B.高清",茶频道
+#EXTINF:0 tvg-logo="https://i.imgur.com/g09Tbgf.png" group-title="B.高清",茶频道
 http://192.168.2.1:2019/udp/235.254.199.198:7980
 
 
