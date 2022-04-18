@@ -61,10 +61,8 @@ http://192.168.2.1:2019/udp/235.254.199.251:7980
 http://192.168.2.1:2019/udp/235.254.198.121:1760
 #EXTINF:0 tvg-id="6595" tvg-logo="https://i.imgur.com/o9fbNsR.png" group-title="B.高清",快乐垂钓
 http://192.168.2.1:2019/udp/235.254.198.191:7980
-#EXTINF:0 tvg-logo="https://i.imgur.com/g09Tbgf.png" group-title="B.高清",茶频道
+#EXTINF:0 tvg-logo="https://i.imgur.com/1ZGL7fI.png" group-title="B.高清",茶频道
 http://192.168.2.1:2019/udp/235.254.199.198:7980
-
-
 
 #EXTINF:0 tvg-id="27" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="C.卫视",湖南卫视HD
 http://192.168.2.1:2019/udp/235.254.198.62:1524
@@ -157,7 +155,6 @@ http://192.168.2.1:2019/udp/235.254.199.170:7980
 http://192.168.2.1:2019/udp/235.254.196.218:1146
 #EXTINF:0 group-title="D.重庆",CQTV手持电视
 http://192.168.2.1:2019/udp/235.254.196.219:1148
-
 
 #EXTINF:0 group-title="E.IPTV",IPTV3
 http://192.168.2.1:2019/udp/235.254.198.13:1328
