@@ -33,7 +33,7 @@ http://192.168.2.1:2019/udp/235.254.199.61:7980
 http://192.168.2.1:2019/udp/235.254.196.163:7980
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="A.央视",CCTV17HD
 http://192.168.2.1:2019/udp/235.254.199.130:7980
-#EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="A.央视",CCTV电视指南
+#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="A.央视",CCTV电视指南
 http://192.168.2.1:2019/udp/235.254.196.97:7980
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="A.央视",CCTV兵器科技
 http://192.168.2.1:2019/udp/235.254.196.98:7980
