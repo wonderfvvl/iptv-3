@@ -74,7 +74,7 @@ http://192.168.2.1:2019/udp/235.254.197.160:7980
 http://192.168.2.1:2019/udp/235.254.199.251:7980
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="B.高清",乐游
 http://192.168.2.1:2019/udp/235.254.197.153:7980
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实人文
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="B.高清",上海纪实人文
 http://192.168.2.1:2019/udp/235.254.199.122:7980
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="B.高清",CHC家庭影院
 http://192.168.2.1:2019/udp/235.254.199.246:7980
