@@ -179,7 +179,7 @@ http://192.168.2.1:2019/udp/235.254.199.180:7980
 http://192.168.2.1:2019/udp/235.254.199.181:7980
 #EXTINF:-1,tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.xyz/logo/重庆时尚生活.png" group-title="D.重庆",重庆时尚生活HD
 http://192.168.2.1:2019/udp/235.254.199.182:7980
-#EXTINF:-1,tvg-id="重庆娱乐" tvg-name="重庆娱乐" tvg-logo="https://epg.112114.xyz/logo/重庆娱乐.png" group-title="D.重庆",重庆娱乐HD
+#EXTINF:-1,tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://epg.112114.xyz/logo/重庆文体娱乐.png" group-title="D.重庆",重庆文体娱乐HD
 http://192.168.2.1:2019/udp/235.254.199.187:7980
 #EXTINF:-1,tvg-id="重庆新农村" tvg-name="重庆新农村" tvg-logo="https://epg.112114.xyz/logo/重庆新农村.png" group-title="D.重庆",重庆新农村HD
 http://192.168.2.1:2019/udp/235.254.199.186:7980
