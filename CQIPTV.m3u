@@ -60,35 +60,49 @@ http://192.168.2.1:2019/udp/235.254.196.109:7980
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/r3EWPrz.png" group-title="B.高清",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:0 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="B.高清",CHC高清电影
-http://192.168.2.1:2019/udp/235.254.199.248:7980
-#EXTINF:0 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="B.高清",CHC家庭影院
-http://192.168.2.1:2019/udp/235.254.199.246:7980
-#EXTINF:0 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="B.高清",CHC动作电影
-http://192.168.2.1:2019/udp/235.254.199.247:7980
-#EXTINF:0 tvg-id="7244" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="B.高清",爱上4K
-http://192.168.2.1:2019/udp/235.254.198.102:7980
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="B.高清",SiTV欢笑剧场4K
-http://192.168.2.1:2019/udp/235.254.197.150:7980
-#EXTINF:-1 group-title="B.高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dongmanxiuchang",SiTV动漫秀场HD
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="B.高清",爱上4K
+http://192.168.2.1:2019/udp/235.254.199.102:7980
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="B.高清",欢笑剧场4K
+http://192.168.2.1:2019/udp/235.254.196.150:7980
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="B.高清",动漫秀场
 http://192.168.2.1:2019/udp/235.254.197.152:7980
-#EXTINF:-1 group-title="B.高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dushijuchang.png",SiTV都市剧场HD
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="B.高清",都市剧场
 http://192.168.2.1:2019/udp/235.254.197.151:7980
-#EXTINF:-1 group-title="B.高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",SiTV生活时尚HD
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="B.高清",生活时尚
 http://192.168.2.1:2019/udp/235.254.197.160:7980
-
-#EXTINF:-1 group-title="B.高清",金色学堂
-http://192.168.2.1:2019/udp/235.254.197.157:7980
-#EXTINF:0 tvg-logo="https://i.imgur.com/Q8dNnWn.png" group-title="B.高清", 精彩影视
-http://192.168.2.1:2019/udp/235.254.199.250:7980
-#EXTINF:0 tvg-id="6244" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="B.高清",求索纪录
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="B.高清",求索纪录
 http://192.168.2.1:2019/udp/235.254.199.251:7980
-#EXTINF:0 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="B.高清",纪实人文
-http://192.168.2.1:2019/udp/235.254.198.121:1760
-#EXTINF:0 tvg-id="6595" tvg-logo="https://i.imgur.com/o9fbNsR.png" group-title="B.高清",快乐垂钓
-http://192.168.2.1:2019/udp/235.254.198.191:7980
-#EXTINF:0 tvg-logo="https://i.imgur.com/1ZGL7fI.png" group-title="B.高清",茶频道
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="B.高清",乐游
+http://192.168.2.1:2019/udp/235.254.197.153:7980
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实人文
+http://192.168.2.1:2019/udp/235.254.199.122:7980
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="B.高清",CHC家庭影院
+http://192.168.2.1:2019/udp/235.254.199.246:7980
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="B.高清",CHC动作电影
+http://192.168.2.1:2019/udp/235.254.199.247:7980
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="B.高清",CHC高清电影
+http://192.168.2.1:2019/udp/235.254.199.248:7980
+#EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="B.高清",精彩影视
+http://192.168.2.1:2019/udp/235.254.199.250:7980
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="B.高清",茶频道
 http://192.168.2.1:2019/udp/235.254.199.198:7980
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="B.高清",快乐垂钓
+http://192.168.2.1:2019/udp/235.254.199.191:7980
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="B.高清",法治天地
+http://192.168.2.1:2019/udp/235.254.197.154:7980
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="B.高清",金色学堂
+http://192.168.2.1:2019/udp/235.254.197.157:7980
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="B.高清",游戏风云
+http://192.168.2.1:2019/udp/235.254.197.159:7980
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="B.高清",魅力足球
+http://192.168.2.1:2019/udp/235.254.197.173:7980
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="B.高清",梨园频道
+http://192.168.2.1:2019/udp/235.254.199.163:7980
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="B.高清",CETV1
+http://192.168.2.1:2019/udp/235.254.199.196:7980
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="B.高清",早期教育
+http://192.168.2.1:2019/udp/235.254.196.112:7980
+
 
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="C.卫视",湖南卫视HD
 http://192.168.2.1:2019/udp/235.254.198.62:1524
@@ -173,7 +187,7 @@ http://192.168.2.1:2019/udp/235.254.199.186:7980
 http://192.168.2.1:2019/udp/235.254.199.166:7980
 #EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://epg.112114.xyz/logo/重庆科教.png" group-title="D.重庆",重庆科教HD
 http://192.168.2.1:2019/udp/235.254.199.188:7980
-#EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="D.重庆",重庆汽摩HD
+#EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/重庆汽摩.png" group-title="D.重庆",重庆汽摩HD
 http://192.168.2.1:2019/udp/235.254.199.169:7980
 #EXTINF:-1,tvg-id="重庆移动" tvg-name="重庆移动" tvg-logo="https://epg.112114.xyz/logo/重庆移动.png" group-title="D.重庆",重庆移动HD
 http://192.168.2.1:2019/udp/235.254.199.170:7980
