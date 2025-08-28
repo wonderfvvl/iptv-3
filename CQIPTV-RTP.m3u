@@ -58,8 +58,7 @@ rtp://235.254.196.108:7980
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="A.央视",CCTV央视文化精品
 rtp://235.254.196.109:7980
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/r3EWPrz.png" group-title="B.高清",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="B.高清",爱上4K
 rtp://235.254.199.102:7980
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="B.高清",欢笑剧场4K
