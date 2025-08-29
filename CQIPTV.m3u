@@ -55,7 +55,7 @@ http://192.168.2.1:2019/udp/235.254.196.107:7980
 http://192.168.2.1:2019/udp/235.254.196.108:7980
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="A.央视",CCTV电视指南
 http://192.168.2.1:2019/udp/235.254.196.97:7980
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="A.央视",CCTV央视文化精品
+#EXTINF:-1,tvg-id="央视文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="A.央视",CCTV央视文化精品
 http://192.168.2.1:2019/udp/235.254.196.109:7980
 
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="B.高清",爱上4K
@@ -72,8 +72,6 @@ http://192.168.2.1:2019/udp/235.254.197.160:7980
 http://192.168.2.1:2019/udp/235.254.199.251:7980
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="B.高清",乐游
 http://192.168.2.1:2019/udp/235.254.197.153:7980
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="B.高清",上海纪实人文
-http://192.168.2.1:2019/udp/235.254.199.122:7980
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="B.高清",CHC家庭影院
 http://192.168.2.1:2019/udp/235.254.199.246:7980
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="B.高清",CHC动作电影
@@ -337,4 +335,5 @@ http://192.168.2.1:2019/udp/235.254.198.100:1676
 http://192.168.2.1:2019/udp/235.254.198.101:1680
 #EXTINF:0 group-title="G.其他",光影（测试）
 http://192.168.2.1:2019/udp/235.254.198.91:1640
+
 
