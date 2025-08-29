@@ -36,7 +36,7 @@ http://192.168.2.1:2019/udp/235.254.199.130:7980
 
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="B.动漫",动漫秀场
 http://192.168.2.1:2019/udp/235.254.197.152:7980
-#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="E.动漫",IPTV少儿动画
+#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="B.动漫",IPTV少儿动画
 http://192.168.2.1:2019/udp/235.254.198.116:1740
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="B.动漫",哈哈炫动
 http://192.168.2.1:2019/udp/235.254.197.34:7980
@@ -271,6 +271,7 @@ http://192.168.2.1:2019/udp/235.254.197.40:7980
 http://192.168.2.1:2019/udp/235.254.198.108:1708
 #EXTINF:-1,tvg-id="精彩导视" tvg-name="精彩导视" tvg-logo="https://epg.112114.xyz/logo/精彩导视.png" group-title="E.数字",精彩导视
 http://192.168.2.1:2019/udp/235.254.196.101:1162
+
 
 
 
