@@ -33,8 +33,6 @@ http://192.168.2.1:2019/udp/235.254.199.61:7980
 http://192.168.2.1:2019/udp/235.254.196.163:7980
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="A.央视",CCTV17HD
 http://192.168.2.1:2019/udp/235.254.199.130:7980
-#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="A.央视",CCTV电视指南
-http://192.168.2.1:2019/udp/235.254.196.97:7980
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="A.央视",CCTV兵器科技
 http://192.168.2.1:2019/udp/235.254.196.98:7980
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="A.央视",CCTV风云足球
@@ -55,11 +53,11 @@ http://192.168.2.1:2019/udp/235.254.196.106:7980
 http://192.168.2.1:2019/udp/235.254.196.107:7980
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="A.央视",CCTV风云音乐
 http://192.168.2.1:2019/udp/235.254.196.108:7980
+#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="A.央视",CCTV电视指南
+http://192.168.2.1:2019/udp/235.254.196.97:7980
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="A.央视",CCTV央视文化精品
 http://192.168.2.1:2019/udp/235.254.196.109:7980
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/r3EWPrz.png" group-title="B.高清",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="B.高清",爱上4K
 http://192.168.2.1:2019/udp/235.254.199.102:7980
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="B.高清",欢笑剧场4K
@@ -339,3 +337,4 @@ http://192.168.2.1:2019/udp/235.254.198.100:1676
 http://192.168.2.1:2019/udp/235.254.198.101:1680
 #EXTINF:0 group-title="G.其他",光影（测试）
 http://192.168.2.1:2019/udp/235.254.198.91:1640
+
