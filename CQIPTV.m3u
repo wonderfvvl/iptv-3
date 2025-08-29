@@ -46,7 +46,7 @@ http://192.168.2.1:2019/udp/235.254.198.49:1472
 http://192.168.2.1:2019/udp/235.254.198.50:1476
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="B.动漫",嘉佳卡通
 http://192.168.2.1:2019/udp/235.254.198.110:1716
-#EXTINF:-1,tvg-id="动画" tvg-name="动画" tv-logo="https://epg.112114.xyz/logo/动画.png" group-title="B.动漫",动画
+#EXTINF:-1,tvg-id="动画" tvg-name="动画" tvg-logo="https://epg.112114.xyz/logo/动画.png" group-title="B.动漫",动画
 http://192.168.2.1:2019/udp/235.254.199.87:7980
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="C.卫视",北京卫视4K
@@ -271,6 +271,7 @@ http://192.168.2.1:2019/udp/235.254.197.40:7980
 http://192.168.2.1:2019/udp/235.254.198.108:1708
 #EXTINF:-1,tvg-id="精彩导视" tvg-name="精彩导视" tvg-logo="https://epg.112114.xyz/logo/精彩导视.png" group-title="E.数字",精彩导视
 http://192.168.2.1:2019/udp/235.254.196.101:1162
+
 
 
 
