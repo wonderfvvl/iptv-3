@@ -198,8 +198,6 @@ http://192.168.2.1:2019/udp/235.254.199.198:7980
 http://192.168.2.1:2019/udp/235.254.199.191:7980
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="D.数字",法治天地
 http://192.168.2.1:2019/udp/235.254.197.154:7980
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="D.数字",金色学堂
-http://192.168.2.1:2019/udp/235.254.197.157:7980
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="D.数字",游戏风云
 http://192.168.2.1:2019/udp/235.254.197.159:7980
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="D.数字",梨园频道
@@ -271,6 +269,7 @@ http://192.168.2.1:2019/udp/235.254.199.224:7980
 http://192.168.2.1:2019/udp/235.254.199.227:7980
 #EXTINF:-1,tvg-id="酉阳综合" tvg-name="酉阳综合" tvg-logo="https://epg.112114.xyz/logo/酉阳综合.png" group-title="E.重庆",酉阳综合
 http://192.168.2.1:2019/udp/235.254.199.236:7980
+
 
 
 
